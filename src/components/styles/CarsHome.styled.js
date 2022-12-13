@@ -24,7 +24,7 @@ export const CarsCardsContainer = styled.div`
 
   .card-img-holder {
     width: 100%;
-    height: 80%;
+    height: 75%;
   }
 
   section img {
@@ -37,7 +37,7 @@ export const CarsCardsContainer = styled.div`
 
   .name-and-price {
     padding: 3px;
-    height: 20%;
+    height: 25%;
   }
 
   h3 {

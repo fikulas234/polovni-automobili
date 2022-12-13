@@ -1,16 +1,16 @@
 import { useState, useEffect } from "react";
 
-import logo1 from "../../img/polovni-aut-logo.svg";
-import youtube from "../../img/youtube.png";
-import instagram from "../../img/instagram.png";
-import twitter from "../../img/twitter.png";
-import facebook from "../../img/facebook.png";
-import linkedIn from "../../img/linkedin.png";
-import car from "../../img/car-icon.png";
-import magnifier from "../../img/magnifier.png";
-import hamburger from "../../img/more.png";
-import savama from "../../img/savama.PNG";
-import downArrow from "../../img/down-arrow.png";
+import logo1 from "../../../img/polovni-aut-logo.svg";
+import youtube from "../../../img/youtube.png";
+import instagram from "../../../img/instagram.png";
+import twitter from "../../../img/twitter.png";
+import facebook from "../../../img/facebook.png";
+import linkedIn from "../../../img/linkedin.png";
+import car from "../../../img/car-icon.png";
+import magnifier from "../../../img/magnifier.png";
+import hamburger from "../../../img/more.png";
+import savama from "../../../img/savama.PNG";
+import downArrow from "../../../img/down-arrow.png";
 
 import DropDownNav from "./DropDownNav";
 import HamburgerNavLinksItems from "./HamburgerNavLinksItems";
@@ -33,7 +33,7 @@ import {
   RegisterButton,
   HamburgerNavLinks,
   ChooseVehicleCategory,
-} from "../styles/Header.styled";
+} from "../../styles/Header.styled";
 
 const Header = (props) => {
   //sign in dropdown

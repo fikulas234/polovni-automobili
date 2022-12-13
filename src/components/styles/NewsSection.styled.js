@@ -94,16 +94,13 @@ export const TextContainer = styled.div`
     color: #39f;
   }
 
-  .blog-1,
-  .blog-2,
-  .blog-3 {
+  .blog {
     display: flex;
     margin-left: 25px;
     padding-bottom: 15px;
   }
 
-  .blog-1,
-  .blog-2 {
+  .blog:not(:last-child) {
     border-bottom: 1px solid #999999;
     margin-bottom: 15px;
   }

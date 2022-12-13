@@ -1,25 +1,25 @@
-import youtube from "../../img/youtube.png";
-import instagram from "../../img/instagram.png";
-import twitter from "../../img/twitter.png";
-import facebook from "../../img/facebook.png";
-import linkedIn from "../../img/linkedin.png";
-import googlePlay from "../../img/google-play.png";
-import appStore from "../../img/app-store.png";
-import huaweiStore from "../../img/huawei-store.png";
-import inspiraLogo from "../../img/inspira-logo.svg";
-import infostudMain from "../../img/infostud.svg";
-import infostudPoslovi from "../../img/poslovi_infostud.svg";
-import startujLogo from "../../img/startuj.svg";
-import hrLabLogo from "../../img/hrlab.svg";
-import helloWorld from "../../img/helloworld.svg";
-import polovniAutomobiliLogo from "../../img/polovniautomobili.svg";
-import cetiriZidaLogo from "../../img/4zida.svg";
-import ipgLogo from "../../img/ipg.svg";
-import osiguranikLogo from "../../img/osiguranik.svg";
-import autohubLogo from "../../img/autohub.svg";
-import prodajadelovaLogo from "../../img/prodajadelova.svg";
-import mojaGaraza from "../../img/mojagaraza.svg";
-import inspiraHub from "../../img/inspirahub.svg";
+import youtube from "../../../img/youtube.png";
+import instagram from "../../../img/instagram.png";
+import twitter from "../../../img/twitter.png";
+import facebook from "../../../img/facebook.png";
+import linkedIn from "../../../img/linkedin.png";
+import googlePlay from "../../../img/google-play.png";
+import appStore from "../../../img/app-store.png";
+import huaweiStore from "../../../img/huawei-store.png";
+import inspiraLogo from "../../../img/inspira-logo.svg";
+import infostudMain from "../../../img/infostud.svg";
+import infostudPoslovi from "../../../img/poslovi_infostud.svg";
+import startujLogo from "../../../img/startuj.svg";
+import hrLabLogo from "../../../img/hrlab.svg";
+import helloWorld from "../../../img/helloworld.svg";
+import polovniAutomobiliLogo from "../../../img/polovniautomobili.svg";
+import cetiriZidaLogo from "../../../img/4zida.svg";
+import ipgLogo from "../../../img/ipg.svg";
+import osiguranikLogo from "../../../img/osiguranik.svg";
+import autohubLogo from "../../../img/autohub.svg";
+import prodajadelovaLogo from "../../../img/prodajadelova.svg";
+import mojaGaraza from "../../../img/mojagaraza.svg";
+import inspiraHub from "../../../img/inspirahub.svg";
 
 import WantedCarsList from "./WantedCarsList";
 import FooterQuickLinks from "./FooterQuickLinks";
@@ -46,7 +46,7 @@ import {
   ThirdRowLogoDesktop,
   BrandRowFirstDesktop,
   BrandRowSecondDesktop,
-} from "../styles/Footer.styled";
+} from "../../styles/Footer.styled";
 
 const Footer = () => {
   return (
